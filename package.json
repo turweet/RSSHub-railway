@@ -133,7 +133,7 @@
     "puppeteer-extra-plugin-user-data-dir": "2.4.1",
     "puppeteer-extra-plugin-user-preferences": "2.4.1",
     "query-string": "7.1.3",
-    "rand-user-agent": "1.0.109",
+    "rand-user-agent": "1.0.110",
     "re2js": "0.4.0",
     "require-all": "3.0.0",
     "rfc4648": "1.5.2",
